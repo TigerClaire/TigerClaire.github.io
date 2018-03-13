@@ -1,1 +1,1 @@
-% Welcome to Transhelp!
+# Welcome to Transhelp!
