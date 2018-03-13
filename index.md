@@ -10,3 +10,6 @@ Transhelp is a support community providing support via IRC, Matrix, and (perhaps
 
 Our IRC is [##transhelp](https://webchat.freenode.net/?channels=##transhelp) on [freenode](freenode.net).
 
+### Contact Us
+
+For now, contact Clairedesu on IRC or matrix. Later, we will have moderators and volunteers here.
